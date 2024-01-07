@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am Romin, a student on his way to learn everything he can so that I can develop my biggest asset, my knowledge. My favourite field of study is Machine Learning and automated machines. One day I aim to create awesome machines to help me reach my goals. 
+If you find me or my projects interesting, reach me out through email: muhymenulhr@gmail.com
 
 <!--
 **romin1122/romin1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
