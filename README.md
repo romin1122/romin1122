@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Romin, a student on his way to learn everything he can so that I can develop my biggest asset, my knowledge. My favourite field of study is Machine Learning and automated machines. One day I aim to create awesome machines to help me reach my goals. 
+I am Romin, a student who is on his way to learn everything he can so that he can develop his biggest asset, his knowledge. My favourite field of study is Machine Learning and automated machines. One day I aim to create awesome machines to do cool stuff! 
 If you find me or my projects interesting, reach me out through email: muhymenulhr@gmail.com
 
 <!--
